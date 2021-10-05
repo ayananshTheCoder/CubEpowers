@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+
+body
+{
+    text-align: center;
+}
+
+.titleH3
+{
+    font-size: 50px;
+    width: 100%;
+    background-color: black;
+    color: #FFB8A9;
+    font-family: Explora;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.note
+{
+    color: black;
+    font-family: monospace;
+    font-size: 20px;
+    margin: 7px;
+    background-color: #FFB8A9;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 2px;
+}
+
+.copyright
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    font-family: monospace;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    margin-left: 10%;
+    margin-top: 30;
+}
+
+#square_side
+{
+    font-size: 30px;
+    margin-top: 15px;
+}
